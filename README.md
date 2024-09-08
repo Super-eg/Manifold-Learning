@@ -1,6 +1,13 @@
 # Manifold-Learning
-I will be updating my summer research experiments here.
+
+This is an undergraduate summer research project, which investigates the diffusion maps.
 
 Look "main.ipynb" to see the newest test
 
-Notes of Diffusion maps: https://hackmd.io/@mBL1ODnxQa-GQnkUBrUBSw/SJ-6dFm3p
+[The note of Diffusion Maps](https://hackmd.io/@mBL1ODnxQa-GQnkUBrUBSw/SJ-6dFm3p)
+
+<p align='center'>
+<img src="poster.png" height=900/>
+<br>
+<em>The poster that summarizes this project</em>
+</p>
